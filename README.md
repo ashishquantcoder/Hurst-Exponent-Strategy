@@ -1,6 +1,15 @@
 # Hurst Exponent Strategy with Trend Following Portfolio
 The strategy being used here is a trend-following strategy combined with volatility-weighted portfolio allocation. Let's break down the components of the strategy:
 
+**Hurst Exponent Calculation:**
+
+The Hurst exponent is calculated for each asset's price series.
+
+Assets with a Hurst exponent above a certain threshold (e.g., 0.80) are considered to have strong trend persistence, indicating that they are suitable candidates for trend-following strategies.
+
+Assets with a high Hurst exponent are more likely to exhibit persistent trends, making them attractive for trading based on moving averages and pullback levels.
+
+
 **Trend Following Strategy:**
 
 The trend-following strategy aims to capture trends in asset prices. It is based on moving averages (MAs), where a shorter-term MA (e.g., 40-day MA) is compared to a longer-term MA (e.g., 80-day MA).
