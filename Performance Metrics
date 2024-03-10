@@ -1,0 +1,25 @@
+Ticker selected for Hurst Exponent > 0.80
+TSLA    1.083599
+NVDA    1.047698
+AMZN    0.936781
+MA      0.910811
+HD      0.898407
+V       0.888875
+
+
+Performance Metrics
+Annual return           0.735617
+Cumulative returns      8.753764
+Annual volatility       0.112419
+Sharpe ratio            4.964197
+Calmar ratio           21.796702
+Stability               0.966997
+Max drawdown           -0.033749
+Omega ratio            12.845151
+Sortino ratio          26.890983
+Skew                    7.050522
+Kurtosis               85.711405
+Tail ratio             11.495682
+Daily value at risk    -0.011949
+Alpha                   0.776012
+Beta                   -0.225096
